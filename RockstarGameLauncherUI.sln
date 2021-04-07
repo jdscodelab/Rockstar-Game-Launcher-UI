@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockstarGameLauncherUI", "RockstarGameLauncherUI.csproj", "{3EA13340-3D8B-4B87-AE75-C6F18FD8C148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA13340-3D8B-4B87-AE75-C6F18FD8C148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA13340-3D8B-4B87-AE75-C6F18FD8C148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA13340-3D8B-4B87-AE75-C6F18FD8C148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA13340-3D8B-4B87-AE75-C6F18FD8C148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B211D42-7EBC-4B47-8328-C1ACCE3761F1}
+	EndGlobalSection
+EndGlobal
